@@ -2,6 +2,6 @@ public class world{
     public static void main(String[] args) {
         
 
-system.out.println("Tanusha");
+System.out.println("Tanusha");
 }
 }
